@@ -1,0 +1,19 @@
+{
+  "name": "initial-test",
+  "version": "1.0.0",
+  "description": "project initialization with libraries: eslint prettier husky next rtk ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Ya-maz/musical-octo-palm-tree.git"
+  },
+  "author": "Ya-maz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ya-maz/musical-octo-palm-tree/issues"
+  },
+  "homepage": "https://github.com/Ya-maz/musical-octo-palm-tree#readme"
+}
