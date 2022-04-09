@@ -4,9 +4,13 @@
   "description": "project initialization with libraries: eslint prettier husky next rtk ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "type-check": "tsc",
+    "test": "jest",
     "lint": "eslint ./src",
-    "lint:fix": "eslint ./../src --fix",
+    "lint:fix": "eslint ./src --fix",
     "prepare": "husky install"
   },
   "repository": {
